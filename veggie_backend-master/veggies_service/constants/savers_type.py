@@ -1,0 +1,2 @@
+WEEK = 'WEEK'
+DAY = 'DAY'

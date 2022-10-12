@@ -1,0 +1,1 @@
+MAP_PIN_URL = 'http://maps.google.com/maps?q='

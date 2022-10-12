@@ -1,0 +1,5 @@
+SENDER_EMAIL = 'kmnaturalsapp@gmail.com'
+SENDER_PASS = 'KmNaturals@123'
+EMAIL_VERIFICATION_SUBJECT = 'Verify email address'
+EMAIL_VERIFICATION_MESSAGE = 'Please verify your email by clicking on below link \n'
+EMAIL_VERIFY_END_POINT = 'veggies/verify/'

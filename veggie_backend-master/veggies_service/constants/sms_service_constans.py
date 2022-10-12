@@ -1,0 +1,8 @@
+URL = 'http://api.msg91.com/api/sendotp.php?'
+USERNAME = 'KMNaturals'
+PASSWORD = 'KmNaturals@123'
+SENDER = 'KMNaturals'
+SEND_SMS = 'False'
+MSG91_AUTH_KEY = '343852A2YEfTu4S5f7d8b26P1'
+MSG91_URL_FOR_OTP = 'http://control.msg91.com/api/sendotp.php?'
+MSG91_URL_FOR_SMS = 'http://api.msg91.com/api/sendhttp.php?'
