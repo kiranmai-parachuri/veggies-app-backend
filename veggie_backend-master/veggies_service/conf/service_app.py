@@ -65,7 +65,6 @@ api.add_resource(PricePerPoint, 'priceperpoint/<id>/', 'priceperpoint/')
 def verify():
     data = request.args
     token = data.get('token')
-    print 'token-:', token
     if token:
         user = user_handler.is_user_present_for_verification_code(token)
         if not user:
